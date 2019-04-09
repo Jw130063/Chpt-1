@@ -21,11 +21,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TableAndChairspublic.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TableAndChairspublic.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TableAndChairspublic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+            <state relative-caret-position="187">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TacoTruck.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TacoTruck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -48,6 +57,7 @@
         <option value="$PROJECT_DIR$/src/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/TableAndChairs.java" />
         <option value="$PROJECT_DIR$/src/TableAndChairspublic.java" />
+        <option value="$PROJECT_DIR$/src/TacoTruck.java" />
       </list>
     </option>
   </component>
@@ -68,6 +78,11 @@
             <path>
               <item name="Chpt 1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chpt-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chpt 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chpt-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,8 +237,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TableAndChairspublic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TacoTruck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
         </state>
       </provider>
     </entry>
