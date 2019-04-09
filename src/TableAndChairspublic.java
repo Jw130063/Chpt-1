@@ -22,7 +22,7 @@ public class TableAndChairspublic{
         System.out.println("R        R            !        !              R      R");
 
 
-
+        System.out.println("Look Mom! I can commit to something.");
 
 
     }
