@@ -1,6 +1,15 @@
 public class TacoTruck {
     public static void main(String[] args){
 
+
+
+
+
+
+
+
+    }
+    public static void displayTacoTruck(){
         System.out.println("TacoTruck");
         System.out.println("\n\n\n\n");
 
@@ -16,14 +25,6 @@ public class TacoTruck {
         System.out.println("xxxxx    xxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxx");
         System.out.println("    o    o                         o    o");
         System.out.println("     oooo                           oooo    ");
-
-    
-
-
-
-
-
-
 
     }
 }
