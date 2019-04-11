@@ -78,8 +78,8 @@
       <file leaf-file-name="FixDebugTwo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FixDebugTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -97,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/src/FixDebugOne4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
               <folding>
                 <element signature="e#75#76#0" expanded="true" />
                 <element signature="e#147#148#0" expanded="true" />
@@ -129,10 +129,10 @@
         <option value="$PROJECT_DIR$/src/MovieQuoteInfo.java" />
         <option value="$PROJECT_DIR$/src/FavoriteSong.java" />
         <option value="$PROJECT_DIR$/src/RandomGuess.java" />
-        <option value="$PROJECT_DIR$/src/FixDebugTwo.java" />
         <option value="$PROJECT_DIR$/src/FixDebugOne.java" />
         <option value="$PROJECT_DIR$/src/FixDebugOne3.java" />
         <option value="$PROJECT_DIR$/src/FixDebugOne4.java" />
+        <option value="$PROJECT_DIR$/src/FixDebugTwo.java" />
       </list>
     </option>
   </component>
@@ -180,7 +180,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.FixDebugOne4">
+    <configuration name="FixDebugOne4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FixDebugOne4" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="Java" />
@@ -227,8 +232,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.FixDebugOne4" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FixDebugOne4" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -429,13 +439,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FixDebugTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FixDebugOne3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -443,10 +446,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/FixDebugTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/FixDebugOne4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
           <folding>
             <element signature="e#75#76#0" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
